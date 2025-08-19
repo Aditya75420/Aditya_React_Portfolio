@@ -41,13 +41,13 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: 'Shelter',
+      title: 'GeoTrack',
       img: IMG3,
       description:
-        'Fully responsive interactive website built based on Figma design',
-      technologies: 'JavaScript | CSS',
-      link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
-      github: 'https://github.com/Meri-MG/shelter',
+        'Location-based attendance tracking app that automates employee check-ins and check-outs using geofencing.',
+      technologies: 'Flutter | Dart | Firebase | Geofencing',
+      link: 'https://drive.google.com/file/d/1c5cO3Ua_-GYaEo4y4mjWLptKzcjgeEqg/view?usp=sharing',
+      github: '',
     },
     {
       id: 5,
