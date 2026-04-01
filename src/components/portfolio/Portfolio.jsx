@@ -12,41 +12,41 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: 'Chat Application',
+      title: 'Client Docs',
       img: IMG1,
       description:
         ' A real-time chat app using the MERN stack, enhanced with AI support from Google Gemini. We integrated Redis for better performance and use socket connections for smooth real-time communication..',
       technologies: 'MERN | Tailwind CSS',
-      link: '',
-      github: 'https://github.com/Aditya75420/Devin_AI',
+      link: 'https://clientdocs-frontend.vercel.app',
+      github: 'https://github.com/Aditya75420/clientdocs-frontend',
     },
     {
       id: 2,
-      title: 'Netflix UI Clone',
+      title: 'Prepwise AI',
       img: IMG4,
       description:
         'Responsive streaming interface built with React.js and Tailwind CSS, featuring movie carousels and Netflixs signature design with mobile-first responsive layout.',
       technologies: 'React | Redux',
-      link: 'https://netflix-ui-clone-psi-two.vercel.app/',
-      github: 'https://github.com/Aditya75420/Netflix_UI_Clone',
+      link: 'https://interview-ai-ten-liart.vercel.app',
+      github: 'https://github.com/Aditya75420/INTERVIEW-AI',
     },
     {
       id: 3,
-      title: 'To-Do App',
+      title: 'Collaborative Code Editor',
       img: IMG2,
       description: 'User friendly app to plan your day and manage tasks',
       technologies: 'JavaScript | Webpack',
-      link: 'https://meri-mg.github.io/To-Do-List/dist/',
-      github: 'https://github.com/Meri-MG/To-Do-List',
+      link: 'http://docker-aws-yt-alb-424299845.ap-northeast-1.elb.amazonaws.com',
+      github: 'https://github.com/Aditya75420/Collaborative_CodeEditor-',
     },
     {
       id: 4,
-      title: 'GeoTrack',
+      title: 'Strength-Maker',
       img: IMG3,
       description:
         'Location-based attendance tracking app that automates employee check-ins and check-outs using geofencing.',
       technologies: 'Flutter | Dart | Firebase | Geofencing',
-      link: 'https://drive.google.com/file/d/1c5cO3Ua_-GYaEo4y4mjWLptKzcjgeEqg/view?usp=sharing',
+      link: 'https://strength-maker-frontend.vercel.app/',
       github: '',
     },
     {
